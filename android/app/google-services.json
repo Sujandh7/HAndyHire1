@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "512768135510",
+    "project_id": "test1-a2b27",
+    "storage_bucket": "test1-a2b27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512768135510:android:74bb3705e4df4281e486f7",
+        "android_client_info": {
+          "package_name": "com.sujan.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3NPYV2BxcG-Qixgzsfw4SbvFbl34ahmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
